@@ -1,4 +1,5 @@
 
+
 # Game Score Scrapping
 
 ## Introduction
@@ -71,7 +72,3 @@ Game Score Scrapping is a Python-based project designed to extract and compile g
 
 ## License
 This project is licensed under the MIT License.
-
----
-
-Feel free to adjust or expand upon this template as needed!
